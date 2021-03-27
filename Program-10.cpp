@@ -3,13 +3,11 @@
 //Expected input and output
 //Input: 10.25
 //Output: 3.20156
-
 #include <iostream>
-#include <cmath>
 using namespace std;
-
 int main()
 {
+int l,b,area;  
 double x = 10.25,   ;//complete the declaration
 result =; //use the function with gives us the square root
 cout << "Square root of " << x << " is " << res;
